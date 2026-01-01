@@ -136,7 +136,7 @@ h2 {
 
 p {
  font-family: cursive;
- margin: 15px 10px 10px 30px;
+ margin: 15px 10px 10px 15px;
  color: #333;
 }
 
@@ -204,3 +204,4 @@ footer{
 footer a{
  color: white;
 }
+
